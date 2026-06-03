@@ -175,4 +175,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Built with using React, Tailwind CSS, and modern web technologies.
 
-<!-- THIS IS PROJECT FOR UI-FIXER -->
